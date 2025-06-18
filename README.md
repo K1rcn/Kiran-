@@ -1,1 +1,2 @@
-# Kiran-
+# About me 
+Hi, I'm Kiran Saba Mateen, a passionate undergraduate student pursuing Computer Science. I have experience in multiple programming languages and a strong interest in web development and graphic design. I thrive in collaborative environments and possess good teamwork and leadership qualities. My goal is to become an expert in my field, continuously learning and applying new skills to build impactful and creative solutions.
